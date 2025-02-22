@@ -1,0 +1,14 @@
+.App {
+    background-color: #3C2317; /* Dark brown */
+    color: #F5E8C7; /* Light beige for text */
+    min-height: 100vh;
+  }
+  
+  a {
+    color: #DAB88B; /* Light brown for links */
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #F5E8C7; /* Beige on hover */
+  }
